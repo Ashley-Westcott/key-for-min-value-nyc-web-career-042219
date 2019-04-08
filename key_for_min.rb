@@ -11,7 +11,7 @@ if value == value
   elsif value > value
     1
   end
-  smallest = value
+  smallest = key
   return smallest
   end
 end
