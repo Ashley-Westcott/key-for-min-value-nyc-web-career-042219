@@ -4,18 +4,14 @@
 def key_for_min_value(name_hash)
 smallest = ""
 passengers.each do |key, value|
-  if value < value
-    smallest = name
-  end
-end
-
-end
-
-if a == b
+if value == value
     0
-  elsif a < b
+  elsif value < value
     -1
-  elsif a > b
+  elsif value > value
     1
+  end
+  smallest = name
+  return smallest
   end
 end
