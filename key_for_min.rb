@@ -11,7 +11,7 @@ if value == value
   elsif value > value
     1
   end
-  smallest = name
+  smallest = value
   return smallest
   end
 end
